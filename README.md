@@ -20,6 +20,8 @@ https://console.firebase.google.com/u/0/project/[your-project-name]/settings/ser
 
 You need to send your notification under "notificationRequests" key
 
+I use the *firebase-functions* and *firebase-admin* librairies
+
 ### Prerequisites
 
 - firebase project
